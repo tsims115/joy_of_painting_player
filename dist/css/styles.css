@@ -11286,3 +11286,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+/* subject matter section */
+
+.subject_matter div div {
+  margin-left: 7px;
+}
+
+/* results section */
+
+.results-section iframe {
+  margin-top: 20px;
+}
+
+.results-section div {
+  border: none;
+  text-align: center;
+}
